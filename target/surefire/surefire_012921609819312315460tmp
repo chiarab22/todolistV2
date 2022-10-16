@@ -1,0 +1,6 @@
+#surefire_0
+#Sun Oct 16 12:54:20 CEST 2022
+basedir=/Users/chiaraboccaletti/Documents/GitHub/todolistV2
+user.dir=/Users/chiaraboccaletti/Documents/GitHub/todolistV2
+spring.profiles.active=postgres
+localRepository=/Users/chiaraboccaletti/.m2/repository
